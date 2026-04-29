@@ -12,7 +12,7 @@ export default function AboutSection() {
           <div className="relative">
             <div className="rounded-2xl overflow-hidden shadow-lg relative">
               <Image
-                src="/tentangKami/IMG_1105.JPG"
+                src="/teamDr.jpeg"
                 alt="Pasukan Klinik Primer Cherang Bertam Putra"
                 width={1200}
                 height={675}

@@ -3,10 +3,8 @@ import { cn } from "@/lib/utils";
 
 export default function HeroSection() {
   return (
-    <section className="relative py-16 sm:py-20 lg:py-28 overflow-hidden">
-      <div className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-40" style={{ backgroundImage: "url('/pcb.webp')" }} />
-      <div className="absolute inset-0 bg-white/40" />
-      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="bg-white py-16 sm:py-20 lg:py-28">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-[1fr_1.4fr] gap-10 lg:gap-12 items-center">
           {/* Text side */}
           <div>
