@@ -8,7 +8,7 @@ const services = [
       "Nak tahu punca sebenar sakit lutut anda dan cara merawatnya? Dapatkan diagnosis yang tepat serta pelan rawatan yang sesuai hari ini!",
   },
   {
-    image: "/services/diet-poster.webp",
+    image: "/services/dietprogram.jpeg",
     title: "Program Diet",
     description:
       "Mahukan tubuh badan yang sihat dan ideal tanpa menyeksa diri? Ketahui rahsia diet yang berkesan dan sihat!",
