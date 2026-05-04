@@ -52,7 +52,7 @@ export default function HeroSection() {
             <div className="rounded-3xl overflow-hidden shadow-lg border border-border/50 relative">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="/Drs/Drss.png"
+                src="/Drs/Drs.png"
                 alt="Doktor Klinik Primer Cherang Bertam Putra"
                 className="w-full h-auto"
               />
