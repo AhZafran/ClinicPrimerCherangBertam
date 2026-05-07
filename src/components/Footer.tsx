@@ -1,5 +1,5 @@
 import { Separator } from "@/components/ui/separator";
-import { MapPin, Phone, Mail, Clock } from "lucide-react";
+import { MapPin, Phone, Mail, Clock, Stethoscope } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -16,6 +16,9 @@ export default function Footer() {
                 className="h-14 w-auto"
               />
             </div>
+            <p className="font-semibold text-background text-sm mb-2">
+              Primer Cherang Clinic Bertam Putra Sdn. Bhd.
+            </p>
             <p className="text-background/60 text-sm leading-relaxed">
               Perkhidmatan kesihatan berkualiti tinggi untuk penduduk Bertam Putra
               dan sekitarnya.
@@ -70,10 +73,14 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Hubungi Kami</h3>
             <ul className="space-y-3 text-sm text-background/60">
+              <li className="flex items-center gap-2">
+                <Stethoscope className="h-4 w-4 shrink-0" />
+                <span>Dr Faz | Dr Adib</span>
+              </li>
               <li className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 shrink-0 mt-0.5" />
                 <span>
-                  No 33, Ground Floor, Jalan Persiaran Seksyen 4/5, Bandar Putra Bertam,
+                  33-G, Persiaran Seksyen 4/5, Bandar Putra Bertam,
                   13200 Kepala Batas, Pulau Pinang
                 </span>
               </li>
@@ -118,7 +125,7 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} Klinik Primer Cherang Bertam Putra.
             Hak cipta terpelihara.
           </p>
-          <p>No. Pendaftaran: 1060649-W | KKLIU 3109/EXP 31.12.2027</p>
+          <p>SSM 1586391-X | KKLIU 3109/EXP 31.12.2027</p>
         </div>
       </div>
     </footer>
