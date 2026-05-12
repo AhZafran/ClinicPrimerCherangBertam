@@ -71,19 +71,19 @@ export default function RootLayout({
       <head>
         <StructuredData />
         {/* Google Tag Manager */}
-        <Script id="gtm" strategy="afterInteractive">
+        <Script id="gtm" strategy="beforeInteractive">
           {`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MNXGVQWV');`}
+})(window,document,'script','dataLayer','GTM-MNDGVQWV');`}
         </Script>
       </head>
       <body className="min-h-full flex flex-col">
         {/* Google Tag Manager (noscript) */}
         <noscript>
           <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-MNXGVQWV"
+            src="https://www.googletagmanager.com/ns.html?id=GTM-MNDGVQWV"
             height="0"
             width="0"
             style={{ display: "none", visibility: "hidden" }}
