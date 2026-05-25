@@ -96,10 +96,10 @@ export default function Footer() {
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 shrink-0" />
                 <a
-                  href="mailto:hq@primercherang.my"
+                  href="mailto:pccbertamputra@gmail.com"
                   className="hover:text-background transition-colors"
                 >
-                  hq@primercherang.my
+                  pccbertamputra@gmail.com
                 </a>
               </li>
             </ul>
@@ -113,7 +113,7 @@ export default function Footer() {
                 <Clock className="h-4 w-4 shrink-0" />
                 <span>Isnin - Ahad</span>
               </li>
-              <li className="pl-6">8:00 PG - 10:00 MLM</li>
+              <li className="pl-6">8:30 PG - 10:00 MLM</li>
             </ul>
           </div>
         </div>

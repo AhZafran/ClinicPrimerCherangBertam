@@ -16,7 +16,7 @@ export const BRAND = {
       "Hai, saya ingin bertanya tentang perkhidmatan di Klinik Primer Cherang Bertam Putra.",
     phone: "010-397 3987",
     phoneRaw: "+60103973987",
-    email: "hq@primercherang.my",
+    email: "pccbertamputra@gmail.com",
     address: {
       street: "No 33, Ground Floor, Jalan Persiaran Seksyen 4/5",
       city: "Bandar Putra Bertam",
@@ -32,7 +32,7 @@ export const BRAND = {
   },
 
   operatingHours: {
-    daily: "8:00 PG - 10:00 MLM",
+    daily: "8:30 PG - 10:00 MLM",
     days: "Isnin - Ahad",
   },
 
