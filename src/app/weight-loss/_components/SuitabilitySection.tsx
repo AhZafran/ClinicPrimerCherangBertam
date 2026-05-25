@@ -1,7 +1,7 @@
 import { CheckCircle2 } from "lucide-react";
 
 const criteria = [
-  "BMI anda 25 atau lebih (berat berlebihan atau obes)",
+  "BMI anda 30 kg/m² atau lebih (obes), atau 27 kg/m² ke atas dengan masalah kesihatan seperti diabetes, tekanan darah tinggi, atau kolesterol tinggi",
   "Sudah cuba pelbagai diet tetapi gagal kekal",
   "Mengalami masalah kesihatan berkaitan berat seperti diabetes, kolesterol tinggi, atau tekanan darah tinggi",
   "Sakit lutut, sendi atau pinggang akibat berat badan berlebihan",
@@ -75,8 +75,11 @@ export default function SuitabilitySection() {
             </div>
 
             <p className="text-xs text-muted-foreground mt-6 leading-relaxed">
-              BMI hanyalah panduan awal. Doktor akan menilai keseluruhan
-              profil kesihatan anda untuk menentukan program yang sesuai.
+              Ubat & suntikan penurunan berat badan biasanya disyorkan untuk
+              BMI 30 ke atas, atau BMI 27 ke atas dengan komorbiditi seperti
+              diabetes atau tekanan darah tinggi. Pelan diet klinikal sesuai
+              untuk semua peringkat. Doktor akan menilai profil kesihatan
+              anda untuk menentukan pilihan yang paling sesuai.
             </p>
           </div>
         </div>

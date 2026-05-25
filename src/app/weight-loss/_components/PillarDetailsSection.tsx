@@ -21,7 +21,7 @@ const pillars: Pillar[] = [
     imageAlt: "Weight loss injection di Klinik Primer Cherang Bertam Putra",
     what: "Suntikan terkawal yang membantu mengurangkan selera makan, melambatkan pengosongan perut, dan menyokong pembakaran lemak. Diberi mengikut dos yang disesuaikan dengan profil kesihatan anda.",
     forWhom: [
-      "Pesakit dengan BMI tinggi yang sukar menurunkan berat badan melalui diet sahaja",
+      "Pesakit dengan BMI 30 kg/m² ke atas, atau 27 kg/m² ke atas dengan komorbiditi (diabetes, tekanan darah tinggi, kolesterol tinggi)",
       "Mereka yang mengalami selera makan berlebihan atau sentiasa lapar",
       "Pesakit pra-diabetes atau diabetes jenis 2 yang ingin mengurangkan berat badan dengan selamat",
     ],
@@ -36,8 +36,8 @@ const pillars: Pillar[] = [
     imageAlt: "Weight loss medicine di Klinik Primer Cherang Bertam Putra",
     what: "Ubat-ubatan terkawal yang membantu kawalan selera, metabolisme, atau penyerapan lemak. Dipreskripsi oleh doktor selepas penilaian penuh terhadap profil kesihatan anda.",
     forWhom: [
+      "Pesakit dengan BMI 30 kg/m² ke atas, atau 27 kg/m² ke atas dengan komorbiditi (diabetes, tekanan darah tinggi, kolesterol tinggi)",
       "Pesakit yang lebih sesuai dengan ubat oral berbanding suntikan",
-      "Mereka yang memerlukan bantuan untuk kawalan selera jangka pendek",
       "Pesakit dengan masalah kesihatan tertentu yang memerlukan pilihan ubat khusus",
     ],
     safety:
