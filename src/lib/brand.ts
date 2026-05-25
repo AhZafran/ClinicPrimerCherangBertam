@@ -1,7 +1,7 @@
 export const BRAND = {
   name: "Klinik Primer Cherang Bertam Putra",
   shortName: "Primer Cherang",
-  tagline: "Pusat Rawatan Saraf, Sendi, Post-Stroke dan Diet Klinikal",
+  tagline: "Klinik Rawatan Saraf, Sendi, Post-Stroke dan Diet Klinikal",
   description:
     "Klinik Primer Cherang Bertam Putra menawarkan perkhidmatan kesihatan berkualiti tinggi termasuk rawatan sakit lutut, saraf, sendi, kebas, slipped disc, pemulihan selepas strok, program diet klinikal dan pembedahan kecil.",
 

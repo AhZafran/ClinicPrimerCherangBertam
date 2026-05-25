@@ -13,7 +13,7 @@ export default function HeroSection() {
             </p>
 
             <h1 className="text-4xl sm:text-5xl lg:text-[3.5rem] font-bold text-foreground leading-[1.1] mb-8">
-              Pusat Rawatan Saraf, Sendi, Post-Stroke dan Diet Klinikal
+              Klinik Rawatan Saraf, Sendi, Post-Stroke dan Diet Klinikal
             </h1>
 
             <p className="text-base sm:text-lg text-muted-foreground mb-10 max-w-lg leading-relaxed text-justify">

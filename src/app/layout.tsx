@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Klinik Primer Cherang Bertam Putra",
     description:
-      "Pusat Rawatan Saraf, Sendi, Post-Stroke dan Diet Klinikal di Kepala Batas, Pulau Pinang.",
+      "Klinik Rawatan Saraf, Sendi, Post-Stroke dan Diet Klinikal di Kepala Batas, Pulau Pinang.",
     url: "https://primercherangbertam.my",
     siteName: "Klinik Primer Cherang Bertam Putra",
     locale: "ms_MY",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Klinik Primer Cherang Bertam Putra",
     description:
-      "Pusat Rawatan Saraf, Sendi, Post-Stroke dan Diet Klinikal di Kepala Batas, Pulau Pinang.",
+      "Klinik Rawatan Saraf, Sendi, Post-Stroke dan Diet Klinikal di Kepala Batas, Pulau Pinang.",
   },
   robots: {
     index: true,
