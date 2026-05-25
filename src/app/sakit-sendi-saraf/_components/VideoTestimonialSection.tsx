@@ -2,16 +2,16 @@ const videos = [
   {
     src: "/testimonials/sakit-sendi-saraf-1.mp4",
     poster: "/testimonials/sakit-sendi-saraf-1.jpg",
-    name: "Pesakit Rawatan Sakit Lutut",
+    name: "Pesakit Rawatan Sakit Saraf",
     caption:
-      "Perkongsian pesakit selepas mengikuti pelan rawatan sakit lutut di Klinik Primer Cherang Bertam Putra.",
+      "Perkongsian pesakit selepas mengikuti pelan rawatan sakit saraf di Klinik Primer Cherang Bertam Putra.",
   },
   {
     src: "/testimonials/sakit-sendi-saraf-2.mp4",
     poster: "/testimonials/sakit-sendi-saraf-2.jpg",
-    name: "Pesakit Pemulihan Post-Stroke",
+    name: "Pesakit Rawatan Sakit Lutut",
     caption:
-      "Pengalaman pemulihan selepas strok dengan bimbingan susulan doktor.",
+      "Pengalaman rawatan sakit lutut dengan bimbingan susulan doktor.",
   },
 ];
 
