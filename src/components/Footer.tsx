@@ -11,9 +11,9 @@ export default function Footer() {
             <div className="mb-4">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="/logo/Logoprimer.svg"
+                src="/logo/logo.png?v=2"
                 alt="Logo Klinik Primer Cherang"
-                className="h-14 w-auto"
+                className="h-20 w-auto"
               />
             </div>
             <p className="font-semibold text-background text-sm mb-2">

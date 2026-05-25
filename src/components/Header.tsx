@@ -6,14 +6,14 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 bg-[#8b0810] border-b border-[#7a0710] shadow-md">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16 sm:h-20">
+        <div className="flex items-center justify-between h-20 sm:h-24">
           {/* Logo */}
           <a href="#" className="flex items-center gap-3">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/logo/Logoprimer.svg"
+              src="/logo/logo.png?v=2"
               alt="Logo Klinik Primer Cherang"
-              className="h-12 w-auto sm:h-14"
+              className="h-16 w-auto sm:h-20"
             />
           </a>
 

@@ -30,6 +30,10 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Klinik Primer Cherang Bertam Putra" }],
   metadataBase: new URL("https://primercherangbertam.my"),
+  icons: {
+    icon: [{ url: "/logo/favicon.png", type: "image/png" }],
+    apple: [{ url: "/logo/favicon.png" }],
+  },
   openGraph: {
     title: "Klinik Primer Cherang Bertam Putra",
     description:

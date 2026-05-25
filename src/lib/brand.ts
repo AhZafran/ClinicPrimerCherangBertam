@@ -6,7 +6,7 @@ export const BRAND = {
     "Klinik Primer Cherang Bertam Putra menawarkan perkhidmatan kesihatan berkualiti tinggi termasuk rawatan sakit lutut, saraf, sendi, kebas, slipped disc, pemulihan selepas strok, program diet klinikal dan pembedahan kecil.",
 
   logo: {
-    path: "/logo/Logoprimer.svg",
+    path: "/logo/logo.png",
     alt: "Logo Klinik Primer Cherang",
   },
 

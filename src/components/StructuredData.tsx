@@ -7,7 +7,7 @@ export default function StructuredData() {
     name: BRAND.name,
     description: BRAND.description,
     url: BRAND.url,
-    image: `${BRAND.url}/logo/Logoprimer.svg`,
+    image: `${BRAND.url}/logo/logo.png`,
     telephone: BRAND.contact.phoneRaw,
     email: BRAND.contact.email,
     address: {
